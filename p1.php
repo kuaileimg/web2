@@ -12,6 +12,7 @@
     $z=$x+$y;
     $k=$x*$y;
     echo $z;
+    echo "<br>";
     echo $k;
   ?>
 </body>
