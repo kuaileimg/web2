@@ -6,7 +6,7 @@
 <body>
 <h1>php wang ye </h1>
   <?php
-    echo "hello php <br>";//输出
+    echo "yun suan <br>";//输出
     $x=5;
     $y=8;
     $z=$x+$y;
