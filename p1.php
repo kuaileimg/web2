@@ -10,7 +10,9 @@
     $x=5;
     $y=8;
     $z=$x+$y;
+    $k=$x*$y;
     echo $z;
+    echo $k;
   ?>
 </body>
 </html>
